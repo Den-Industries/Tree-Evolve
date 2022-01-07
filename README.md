@@ -6,4 +6,4 @@ Every cell is creating another cells because of his instruction.
 It is not actially trees, but sometimes it loocks like that.
 Every cell is getting and losing energy because some special rools(for leaves and roots).
 If tree dying(beacuse of lack of energy) his genome changes to the genome of the strongest tree.
-Have fun, guys.
+And all of this in OpenGL C++. Have fun, guys.
